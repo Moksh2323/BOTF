@@ -6,7 +6,7 @@ import requests
 
 TOKEN = "Rupees "
 
-BOT_TOKEN = "5111462275:AAHa9f2-Kng-lRog83eb471cMoWv2tgrGLE"
+BOT_TOKEN = "5287435697:AAF33vmXC7Pd2BnmhxAIAkMHr-YN3kiokRY"
 
 PAYMENT_CHANNEL = "@sgking27here"
 OWNER_ID = 1281850445
